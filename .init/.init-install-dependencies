@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/tmp/kavia/workspace/code-generation/greeting-api-637540-637549/hello_world_backend"
+}
